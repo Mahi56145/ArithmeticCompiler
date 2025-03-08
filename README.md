@@ -1,4 +1,18 @@
 # ArithmeticCompiler
+
+*COMPANY*: CODTECH IT SOLUTIONS
+
+*NAME*: MAHIPAL
+
+*INTERN ID*:CT08PBA
+
+*DOMAIN*: C++ PROGRAMMING
+
+*DURATION*: 4 WEEKS
+
+*MENTOR*: NEELA SANTHOSH
+
+*OUTPUT:*
 # Arithmetic Expression Compiler (Web-Based)
 
 A simple web-based compiler to evaluate arithmetic expressions using **C++ CGI** and a **basic HTML frontend**.
