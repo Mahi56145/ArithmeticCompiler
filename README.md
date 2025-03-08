@@ -13,6 +13,10 @@
 *MENTOR*: NEELA SANTHOSH
 
 *OUTPUT:*
+
+![Image](https://github.com/user-attachments/assets/4e26223e-a040-48c5-9a6a-0851df99f6ec)
+![Image](https://github.com/user-attachments/assets/be35d53d-d105-4ad3-9258-3fd1cbe41e1c)
+
 # Arithmetic Expression Compiler (Web-Based)
 
 A simple web-based compiler to evaluate arithmetic expressions using **C++ CGI** and a **basic HTML frontend**.
